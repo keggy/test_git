@@ -6,3 +6,4 @@ abc
 def
 
 Creating a new branch is quick.
+in the new feature
